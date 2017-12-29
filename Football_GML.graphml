@@ -1,0 +1,1288 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="long" for="edge" id="d1" />
+  <key attr.name="name" attr.type="string" for="graph" id="d0" />
+  <graph edgedefault="directed">
+    <data key="d0">()</data>
+    <node id="Cowboys" />
+    <node id="Giants" />
+    <node id="Broncos" />
+    <node id="Cardinals" />
+    <node id="Rams" />
+    <node id="Packers" />
+    <node id="49ers" />
+    <node id="Redskins" />
+    <node id="Chiefs" />
+    <node id="Falcons" />
+    <node id="Eagles" />
+    <node id="Chargers" />
+    <node id="Raiders" />
+    <node id="Seahawks" />
+    <node id="Lions" />
+    <node id="Bucaneers" />
+    <node id="Bills" />
+    <node id="Patriots" />
+    <node id="Bengals" />
+    <node id="Dolphins" />
+    <node id="Jets" />
+    <node id="Colts" />
+    <node id="Texans" />
+    <node id="Jaguars" />
+    <node id="Titans" />
+    <node id="Vikings" />
+    <node id="Saints" />
+    <node id="Bears" />
+    <node id="Ravens" />
+    <node id="Steelers" />
+    <node id="Browns" />
+    <node id="Panthers" />
+    <edge source="Cowboys" target="Giants">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cowboys" target="Broncos">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cowboys" target="Cardinals">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cowboys" target="Rams">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cowboys" target="Packers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cowboys" target="49ers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cowboys" target="Redskins">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cowboys" target="Chiefs">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cowboys" target="Falcons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cowboys" target="Eagles">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cowboys" target="Chargers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cowboys" target="Raiders">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cowboys" target="Seahawks">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giants" target="Cowboys">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Giants" target="Lions">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giants" target="Eagles">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Giants" target="Bucaneers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giants" target="Chargers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giants" target="Broncos">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giants" target="Seahawks">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giants" target="Rams">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giants" target="49ers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giants" target="Chiefs">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giants" target="Redskins">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Giants" target="Raiders">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Giants" target="Cardinals">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Broncos" target="Chargers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Broncos" target="Cowboys">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Broncos" target="Bills">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Broncos" target="Raiders">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Broncos" target="Giants">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Broncos" target="Chiefs">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Broncos" target="Eagles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Broncos" target="Patriots">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Broncos" target="Bengals">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Broncos" target="Dolphins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Broncos" target="Jets">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Broncos" target="Colts">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Broncos" target="Redskins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinals" target="Lions">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinals" target="Colts">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinals" target="Cowboys">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinals" target="49ers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cardinals" target="Eagles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinals" target="Bucaneers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinals" target="Rams">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cardinals" target="Seahawks">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Cardinals" target="Texans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinals" target="Jaguars">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinals" target="Titans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinals" target="Redskins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Cardinals" target="Giants">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rams" target="Colts">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rams" target="Redskins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rams" target="49ers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Rams" target="Cowboys">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rams" target="Seahawks">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Rams" target="Jaguars">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rams" target="Cardinals">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Rams" target="Giants">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rams" target="Texans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rams" target="Vikings">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rams" target="Saints">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rams" target="Eagles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Rams" target="Titans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Packers" target="Seahawks">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Packers" target="Falcons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Packers" target="Bengals">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Packers" target="Bears">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Packers" target="Cowboys">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Packers" target="Vikings">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Packers" target="Saints">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Packers" target="Lions">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Packers" target="Ravens">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Packers" target="Steelers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Packers" target="Bucaneers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Packers" target="Browns">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Packers" target="Panthers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="49ers" target="Panthers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="49ers" target="Seahawks">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="49ers" target="Rams">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="49ers" target="Cardinals">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="49ers" target="Colts">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="49ers" target="Redskins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="49ers" target="Cowboys">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="49ers" target="Eagles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="49ers" target="Giants">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="49ers" target="Bears">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="49ers" target="Texans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="49ers" target="Titans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="49ers" target="Jaguars">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Redskins" target="Eagles">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Redskins" target="Rams">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Redskins" target="Raiders">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Redskins" target="Chiefs">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Redskins" target="49ers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Redskins" target="Cowboys">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Redskins" target="Seahawks">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Redskins" target="Vikings">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Redskins" target="Saints">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Redskins" target="Giants">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Redskins" target="Chargers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Redskins" target="Cardinals">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Redskins" target="Broncos">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chiefs" target="Patriots">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chiefs" target="Eagles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chiefs" target="Chargers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Chiefs" target="Redskins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chiefs" target="Texans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chiefs" target="Steelers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chiefs" target="Raiders">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Chiefs" target="Broncos">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Chiefs" target="Cowboys">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chiefs" target="Giants">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chiefs" target="Bills">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chiefs" target="Jets">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chiefs" target="Dolphins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falcons" target="Bears">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falcons" target="Packers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falcons" target="Lions">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falcons" target="Bills">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falcons" target="Dolphins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falcons" target="Patriots">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falcons" target="Jets">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falcons" target="Panthers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Falcons" target="Cowboys">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falcons" target="Seahawks">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falcons" target="Bucaneers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Falcons" target="Vikings">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Falcons" target="Saints">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Eagles" target="Redskins">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Eagles" target="Chiefs">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Eagles" target="Giants">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Eagles" target="Chargers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Eagles" target="Cardinals">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Eagles" target="Panthers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Eagles" target="49ers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Eagles" target="Broncos">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Eagles" target="Cowboys">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Eagles" target="Bears">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Eagles" target="Seahawks">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Eagles" target="Rams">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Eagles" target="Raiders">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chargers" target="Broncos">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Chargers" target="Dolphins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chargers" target="Chiefs">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Chargers" target="Eagles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chargers" target="Giants">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chargers" target="Raiders">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Chargers" target="Patriots">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chargers" target="Jaguars">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chargers" target="Bills">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chargers" target="Cowboys">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chargers" target="Browns">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chargers" target="Redskins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chargers" target="Jets">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Raiders" target="Titans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Raiders" target="Jets">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Raiders" target="Redskins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Raiders" target="Broncos">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Raiders" target="Ravens">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Raiders" target="Chargers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Raiders" target="Chiefs">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Raiders" target="Bills">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Raiders" target="Dolphins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Raiders" target="Patriots">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Raiders" target="Giants">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Raiders" target="Cowboys">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Raiders" target="Eagles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Seahawks" target="Packers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Seahawks" target="49ers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Seahawks" target="Titans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Seahawks" target="Colts">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Seahawks" target="Rams">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Seahawks" target="Giants">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Seahawks" target="Texans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Seahawks" target="Redskins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Seahawks" target="Cardinals">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Seahawks" target="Falcons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Seahawks" target="Eagles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Seahawks" target="Jaguars">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Seahawks" target="Cowboys">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lions" target="Cardinals">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lions" target="Giants">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lions" target="Falcons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lions" target="Vikings">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lions" target="Panthers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lions" target="Saints">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lions" target="Steelers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lions" target="Packers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lions" target="Browns">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lions" target="Bears">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Lions" target="Ravens">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lions" target="Bucaneers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Lions" target="Bengals">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bucaneers" target="Dolphins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bucaneers" target="Bears">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bucaneers" target="Vikings">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bucaneers" target="Giants">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bucaneers" target="Patriots">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bucaneers" target="Cardinals">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bucaneers" target="Bills">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bucaneers" target="Panthers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bucaneers" target="Saints">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bucaneers" target="Jets">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bucaneers" target="Falcons">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bucaneers" target="Packers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bucaneers" target="Lions">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bills" target="Jets">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bills" target="Panthers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bills" target="Broncos">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bills" target="Falcons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bills" target="Bengals">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bills" target="Bucaneers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bills" target="Raiders">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bills" target="Saints">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bills" target="Chargers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bills" target="Chiefs">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bills" target="Patriots">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bills" target="Colts">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bills" target="Dolphins">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Patriots" target="Chiefs">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Patriots" target="Saints">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Patriots" target="Texans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Patriots" target="Panthers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Patriots" target="Bucaneers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Patriots" target="Jets">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Patriots" target="Falcons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Patriots" target="Chargers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Patriots" target="Broncos">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Patriots" target="Raiders">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Patriots" target="Dolphins">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Patriots" target="Bills">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Patriots" target="Steelers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bengals" target="Ravens">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bengals" target="Texans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bengals" target="Packers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bengals" target="Browns">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bengals" target="Bills">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bengals" target="Steelers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bengals" target="Colts">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bengals" target="Jaguars">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bengals" target="Titans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bengals" target="Broncos">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bengals" target="Bears">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bengals" target="Vikings">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bengals" target="Lions">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dolphins" target="Bucaneers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dolphins" target="Chargers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dolphins" target="Jets">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dolphins" target="Saints">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dolphins" target="Titans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dolphins" target="Falcons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dolphins" target="Ravens">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dolphins" target="Raiders">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dolphins" target="Panthers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dolphins" target="Patriots">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dolphins" target="Broncos">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Dolphins" target="Bills">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Dolphins" target="Chiefs">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jets" target="Bills">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jets" target="Raiders">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jets" target="Dolphins">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jets" target="Jaguars">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jets" target="Browns">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jets" target="Patriots">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jets" target="Falcons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jets" target="Bucaneers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jets" target="Panthers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jets" target="Chiefs">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jets" target="Broncos">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jets" target="Saints">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jets" target="Chargers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colts" target="Rams">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colts" target="Cardinals">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colts" target="Browns">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colts" target="Seahawks">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colts" target="49ers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colts" target="Titans">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Colts" target="Jaguars">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Colts" target="Bengals">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colts" target="Texans">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Colts" target="Steelers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colts" target="Bills">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colts" target="Broncos">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Colts" target="Ravens">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Texans" target="Jaguars">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Texans" target="Bengals">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Texans" target="Patriots">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Texans" target="Titans">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Texans" target="Chiefs">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Texans" target="Browns">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Texans" target="Seahawks">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Texans" target="Colts">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Texans" target="Rams">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Texans" target="Cardinals">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Texans" target="Ravens">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Texans" target="49ers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Texans" target="Steelers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jaguars" target="Texans">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jaguars" target="Titans">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jaguars" target="Ravens">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jaguars" target="Jets">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jaguars" target="Steelers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jaguars" target="Rams">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jaguars" target="Colts">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Jaguars" target="Bengals">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jaguars" target="Chargers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jaguars" target="Browns">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jaguars" target="Cardinals">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jaguars" target="Seahawks">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Jaguars" target="49ers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Titans" target="Raiders">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Titans" target="Jaguars">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Titans" target="Seahawks">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Titans" target="Texans">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Titans" target="Dolphins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Titans" target="Colts">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Titans" target="Browns">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Titans" target="Ravens">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Titans" target="Bengals">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Titans" target="Steelers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Titans" target="Cardinals">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Titans" target="49ers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Titans" target="Rams">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vikings" target="Saints">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vikings" target="Steelers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vikings" target="Bucaneers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vikings" target="Lions">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Vikings" target="Bears">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Vikings" target="Packers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Vikings" target="Ravens">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vikings" target="Browns">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vikings" target="Redskins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vikings" target="Rams">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vikings" target="Falcons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vikings" target="Panthers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Vikings" target="Bengals">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Saints" target="Vikings">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Saints" target="Patriots">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Saints" target="Panthers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Saints" target="Dolphins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Saints" target="Lions">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Saints" target="Packers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Saints" target="Bears">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Saints" target="Bucaneers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Saints" target="Bills">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Saints" target="Redskins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Saints" target="Rams">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Saints" target="Falcons">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Saints" target="Jets">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bears" target="Falcons">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bears" target="Bucaneers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bears" target="Steelers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bears" target="Packers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bears" target="Vikings">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bears" target="Ravens">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bears" target="Panthers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bears" target="Saints">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bears" target="Lions">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Bears" target="Eagles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bears" target="49ers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bears" target="Bengals">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Bears" target="Browns">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ravens" target="Bengals">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ravens" target="Browns">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ravens" target="Jaguars">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ravens" target="Steelers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ravens" target="Raiders">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ravens" target="Bears">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ravens" target="Vikings">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ravens" target="Dolphins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ravens" target="Titans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ravens" target="Packers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ravens" target="Texans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ravens" target="Lions">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Ravens" target="Colts">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Steelers" target="Browns">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Steelers" target="Vikings">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Steelers" target="Bears">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Steelers" target="Ravens">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Steelers" target="Jaguars">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Steelers" target="Chiefs">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Steelers" target="Bengals">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Steelers" target="Lions">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Steelers" target="Colts">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Steelers" target="Titans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Steelers" target="Packers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Steelers" target="Patriots">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Steelers" target="Texans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Browns" target="Steelers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Browns" target="Ravens">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Browns" target="Colts">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Browns" target="Bengals">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Browns" target="Jets">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Browns" target="Texans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Browns" target="Titans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Browns" target="Vikings">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Browns" target="Lions">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Browns" target="Jaguars">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Browns" target="Chargers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Browns" target="Packers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Browns" target="Bears">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Panthers" target="49ers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Panthers" target="Bills">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Panthers" target="Saints">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Panthers" target="Patriots">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Panthers" target="Lions">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Panthers" target="Eagles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Panthers" target="Bears">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Panthers" target="Bucaneers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Panthers" target="Falcons">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Panthers" target="Dolphins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Panthers" target="Jets">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Panthers" target="Vikings">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Panthers" target="Packers">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

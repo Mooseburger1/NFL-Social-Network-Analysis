@@ -1,0 +1,513 @@
+from,to
+Cowboys,New York
+Cowboys,Denver
+Cowboys,Arizona
+Cowboys,Los Angeles
+Cowboys,Green Bay
+Cowboys,San Francisco
+Cowboys,Washington
+Cowboys,Kansas City
+Cowboys,Atlanta
+Cowboys,Philadelphia
+Cowboys,Los Angeles
+Cowboys,Washington
+Cowboys,New York
+Cowboys,Oakland
+Cowboys,Seattle
+Cowboys,Philadelphia
+Bills,Carolina
+Bills,Denver
+Bills,Atlanta
+Bills,Cincinnati
+Bills,Tampa Bay
+Bills,Oakland
+Bills,New York
+Bills,New Orleans
+Bills,Los Angeles
+Bills,Kansas City
+Bills,New England
+Bills,Indianapolis
+Bills,Miami
+Bills,New England
+Bills,Miami
+Broncos,Dallas
+Broncos,Buffalo
+Broncos,Oakland
+Broncos,New York
+Broncos,Los Angeles
+Broncos,Kansas City
+Broncos,Philadelphia
+Broncos,New England
+Broncos,Cincinnati
+Broncos,Oakland
+Broncos,Miami
+Broncos,New York
+Broncos,Indianapolis
+Broncos,Washington
+Broncos,Kansas City
+Bills,Carolina
+Bills,Denver
+Bills,Atlanta
+Bills,Cincinnati
+Bills,Tampa Bay
+Bills,Oakland
+Bills,New York
+Bills,New Orleans
+Bills,Los Angeles
+Bills,Kansas City
+Bills,New England
+Bills,Indianapolis
+Bills,Miami
+Bills,New England
+Bills,Miami
+Broncos,Dallas
+Broncos,Buffalo
+Broncos,Oakland
+Broncos,New York
+Broncos,Los Angeles
+Broncos,Kansas City
+Broncos,Philadelphia
+Broncos,New England
+Broncos,Cincinnati
+Broncos,Oakland
+Broncos,Miami
+Broncos,New York
+Broncos,Indianapolis
+Broncos,Washington
+Broncos,Kansas City
+Giants,Detroit
+Giants,Philadelphia
+Giants,Tampa Bay
+Giants,Los Angeles
+Giants,Denver
+Giants,Seattle
+Giants,Los Angeles
+Giants,San Francisco
+Giants,Kansas City
+Giants,Washington
+Giants,Oakland
+Giants,Dallas
+Giants,Philadelphia
+Giants,Arizona
+Giants,Washington
+Dolphins,Los Angeles
+Dolphins,New York
+Dolphins,New Orleans
+Dolphins,Tennessee
+Dolphins,Atlanta
+Dolphins,New York
+Dolphins,Baltimore
+Dolphins,Oakland
+Dolphins,Carolina
+Dolphins,New England
+Dolphins,Denver
+Dolphins,New England
+Dolphins,Buffalo
+Dolphins,Kansas City
+Dolphins,Buffalo
+Eagles,Kansas City
+Eagles,New York
+Eagles,Los Angeles
+Eagles,Arizona
+Eagles,Carolina
+Eagles,Washington
+Eagles,San Francisco
+Eagles,Denver
+Eagles,Dallas
+Eagles,Chicago
+Eagles,Seattle
+Eagles,Los Angeles
+Eagles,New York
+Eagles,Oakland
+Eagles,Dallas
+New England,New Orleans
+New England,Houston
+New England,Carolina
+New England,Tampa Bay
+New England,New York
+New England,Atlanta
+New England,Los Angeles
+New England,Denver
+New England,Oakland
+New England,Miami
+New England,Buffalo
+New England,Miami
+New England,Pittsburgh
+New England,Buffalo
+New England,New York
+Redskins,Los Angeles
+Redskins,Oakland
+Redskins,Kansas City
+Redskins,San Francisco
+Redskins,Philadelphia
+Redskins,Dallas
+Redskins,Seattle
+Redskins,Minnesota
+Redskins,New Orleans
+Redskins,New York
+Redskins,Dallas
+Redskins,Los Angeles
+Redskins,Arizona
+Redskins,Denver
+Redskins,New York
+Jets,Oakland
+Jets,Miami
+Jets,Jacksonville
+Jets,Cleveland
+Jets,New England
+Jets,Miami
+Jets,Atlanta
+Jets,Buffalo
+Jets,Tampa Bay
+Jets,Carolina
+Jets,Kansas City
+Jets,Denver
+Jets,New Orleans
+Jets,Los Angeles
+Jets,New England
+Bears,Tampa Bay
+Bears,Pittsburgh
+Bears,Green Bay
+Bears,Minnesota
+Bears,Baltimore
+Bears,Carolina
+Bears,New Orleans
+Bears,Green Bay
+Bears,Detroit
+Bears,Philadelphia
+Bears,San Francisco
+Bears,Cincinnati
+Bears,Detroit
+Bears,Cleveland
+Bears,Minnesota
+Ravens,Cleveland
+Ravens,Jacksonville
+Ravens,Pittsburgh
+Ravens,Oakland
+Ravens,Chicago
+Ravens,Minnesota
+Ravens,Miami
+Ravens,Tennessee
+Ravens,Green Bay
+Ravens,Houston
+Ravens,Detroit
+Ravens,Pittsburgh
+Ravens,Cleveland
+Ravens,Indianapolis
+Ravens,Cincinnati
+Lions,New York
+Lions,Atlanta
+Lions,Minnesota
+Lions,Carolina
+Lions,New Orleans
+Lions,Pittsburgh
+Lions,Green Bay
+Lions,Cleveland
+Lions,Chicago
+Lions,Minnesota
+Lions,Baltimore
+Lions,Tampa Bay
+Lions,Chicago
+Lions,Cincinnati
+Lions,Green Bay
+Bengals,Houston
+Bengals,Green Bay
+Bengals,Cleveland
+Bengals,Buffalo
+Bengals,Pittsburgh
+Bengals,Indianapolis
+Bengals,Jacksonville
+Bengals,Tennessee
+Bengals,Denver
+Bengals,Cleveland
+Bengals,Pittsburgh
+Bengals,Chicago
+Bengals,Minnesota
+Bengals,Detroit
+Bengals,Baltimore
+Packers,Atlanta
+Packers,Cincinnati
+Packers,Chicago
+Packers,Dallas
+Packers,Minnesota
+Packers,New Orleans
+Packers,Detroit
+Packers,Chicago
+Packers,Baltimore
+Packers,Pittsburgh
+Packers,Tampa Bay
+Packers,Cleveland
+Packers,Carolina
+Packers,Minnesota
+Packers,Detroit
+Browns,Baltimore
+Browns,Indianapolis
+Browns,Cincinnati
+Browns,New York
+Browns,Houston
+Browns,Tennessee
+Browns,Minnesota
+Browns,Detroit
+Browns,Jacksonville
+Browns,Cincinnati
+Browns,Los Angeles
+Browns,Green Bay
+Browns,Baltimore
+Browns,Chicago
+Browns,Pittsburgh
+Vikings,Pittsburgh
+Vikings,Tampa Bay
+Vikings,Detroit
+Vikings,Chicago
+Vikings,Green Bay
+Vikings,Baltimore
+Vikings,Cleveland
+Vikings,Washington
+Vikings,Los Angeles
+Vikings,Detroit
+Vikings,Atlanta
+Vikings,Carolina
+Vikings,Cincinnati
+Vikings,Green Bay
+Vikings,Chicago
+Steelers,Minnesota
+Steelers,Chicago
+Steelers,Baltimore
+Steelers,Jacksonville
+Steelers,Kansas City
+Steelers,Cincinnati
+Steelers,Detroit
+Steelers,Indianapolis
+Steelers,Tennessee
+Steelers,Green Bay
+Steelers,Cincinnati
+Steelers,Baltimore
+Steelers,New England
+Steelers,Houston
+Steelers,Cleveland
+Falcons,Green Bay
+Falcons,Detroit
+Falcons,Buffalo
+Falcons,Miami
+Falcons,New England
+Falcons,New York
+Falcons,Carolina
+Falcons,Dallas
+Falcons,Seattle
+Falcons,Tampa Bay
+Falcons,Minnesota
+Falcons,New Orleans
+Falcons,Tampa Bay
+Falcons,New Orleans
+Falcons,Carolina
+Texans,Cincinnati
+Texans,New England
+Texans,Tennessee
+Texans,Kansas City
+Texans,Cleveland
+Texans,Seattle
+Texans,Indianapolis
+Texans,Los Angeles
+Texans,Arizona
+Texans,Baltimore
+Texans,Tennessee
+Texans,San Francisco
+Texans,Jacksonville
+Texans,Pittsburgh
+Texans,Indianapolis
+Panthers,Buffalo
+Panthers,New Orleans
+Panthers,New England
+Panthers,Detroit
+Panthers,Philadelphia
+Panthers,Chicago
+Panthers,Tampa Bay
+Panthers,Atlanta
+Panthers,Miami
+Panthers,New York
+Panthers,New Orleans
+Panthers,Minnesota
+Panthers,Green Bay
+Panthers,Tampa Bay
+Panthers,Atlanta
+Colts,Arizona
+Colts,Cleveland
+Colts,Seattle
+Colts,San Francisco
+Colts,Tennessee
+Colts,Jacksonville
+Colts,Cincinnati
+Colts,Houston
+Colts,Pittsburgh
+Colts,Tennessee
+Colts,Jacksonville
+Colts,Buffalo
+Colts,Denver
+Colts,Baltimore
+Colts,Houston
+Saints,New England
+Saints,Carolina
+Saints,Miami
+Saints,Detroit
+Saints,Green Bay
+Saints,Chicago
+Saints,Tampa Bay
+Saints,Buffalo
+Saints,Washington
+Saints,Los Angeles
+Saints,Carolina
+Saints,Atlanta
+Saints,New York
+Saints,Atlanta
+Saints,Tampa Bay
+Jaguars,Tennessee
+Jaguars,Baltimore
+Jaguars,New York
+Jaguars,Pittsburgh
+Jaguars,Los Angeles
+Jaguars,Indianapolis
+Jaguars,Cincinnati
+Jaguars,Los Angeles
+Jaguars,Cleveland
+Jaguars,Arizona
+Jaguars,Indianapolis
+Jaguars,Seattle
+Jaguars,Houston
+Jaguars,San Francisco
+Jaguars,Tennessee
+Bucaneers,Chicago
+Bucaneers,Minnesota
+Bucaneers,New York
+Bucaneers,New England
+Bucaneers,Arizona
+Bucaneers,Buffalo
+Bucaneers,Carolina
+Bucaneers,New Orleans
+Bucaneers,New York
+Bucaneers,Atlanta
+Bucaneers,Green Bay
+Bucaneers,Detroit
+Bucaneers,Atlanta
+Bucaneers,Carolina
+Bucaneers,New Orleans
+Titans,Jacksonville
+Titans,Seattle
+Titans,Houston
+Titans,Miami
+Titans,Indianapolis
+Titans,Cleveland
+Titans,Baltimore
+Titans,Cincinnati
+Titans,Pittsburgh
+Titans,Indianapolis
+Titans,Houston
+Titans,Arizona
+Titans,San Francisco
+Titans,Los Angeles
+Titans,Jacksonville
+Cardinals,Detroit
+Cardinals,Indianapolis
+Cardinals,Dallas
+Cardinals,San Francisco
+Cardinals,Philadelphia
+Cardinals,Tampa Bay
+Cardinals,Los Angeles
+Cardinals,San Francisco
+Cardinals,Seattle
+Cardinals,Houston
+Cardinals,Jacksonville
+Cardinals,Los Angeles
+Cardinals,Tennessee
+Cardinals,Washington
+Cardinals,New York
+Cardinals,Seattle
+Chiefs,Philadelphia
+Chiefs,Los Angeles
+Chiefs,Washington
+Chiefs,Houston
+Chiefs,Pittsburgh
+Chiefs,Oakland
+Chiefs,Denver
+Chiefs,Dallas
+Chiefs,New York
+Chiefs,Buffalo
+Chiefs,New York
+Chiefs,Oakland
+Chiefs,Los Angeles
+Chiefs,Miami
+Chiefs,Denver
+Rams,Washington
+Rams,San Francisco
+Rams,Dallas
+Rams,Seattle
+Rams,Jacksonville
+Rams,Arizona
+Rams,New York
+Rams,Houston
+Rams,Minnesota
+Rams,New Orleans
+Rams,Arizona
+Rams,Philadelphia
+Rams,Seattle
+Rams,Tennessee
+Rams,San Francisco
+Chargers,Miami
+Chargers,Kansas City
+Chargers,Philadelphia
+Chargers,New York
+Chargers,Oakland
+Chargers,Denver
+Chargers,New England
+Chargers,Jacksonville
+Chargers,Buffalo
+Chargers,Dallas
+Chargers,Cleveland
+Chargers,Washington
+Chargers,Kansas City
+Chargers,New York
+Chargers,Oakland
+49ers,Seattle
+49ers,Los Angeles
+49ers,Arizona
+49ers,Indianapolis
+49ers,Washington
+49ers,Dallas
+49ers,Philadelphia
+49ers,Arizona
+49ers,New York
+49ers,Seattle
+49ers,Chicago
+49ers,Houston
+49ers,Tennessee
+49ers,Jacksonville
+49ers,Los Angeles
+Raiders,New York
+Raiders,Washington
+Raiders,Denver
+Raiders,Baltimore
+Raiders,Los Angeles
+Raiders,Kansas City
+Raiders,Buffalo
+Raiders,Miami
+Raiders,New England
+Raiders,Denver
+Raiders,New York
+Raiders,Kansas City
+Raiders,Dallas
+Raiders,Philadelphia
+Raiders,Los Angeles
+Seahawks,San Francisco
+Seahawks,Tennessee
+Seahawks,Indianapolis
+Seahawks,Los Angeles
+Seahawks,New York
+Seahawks,Houston
+Seahawks,Washington
+Seahawks,Arizona
+Seahawks,Atlanta
+Seahawks,San Francisco
+Seahawks,Philadelphia
+Seahawks,Jacksonville
+Seahawks,Los Angeles
+Seahawks,Dallas
+Seahawks,Arizona
